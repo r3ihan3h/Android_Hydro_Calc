@@ -2,7 +2,10 @@
 A simple app for doing math on input data and giving specific output to user
 
 
-Take some numeric  Input from Users and do calculation, return the output
+### Take some numeric  Input from Users and do calculation, return the output!
+
+
+
 
 
 
