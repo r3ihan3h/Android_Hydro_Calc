@@ -6,6 +6,4 @@ Take some numeric  Input from Users and do calculation, return the output
 
 
 
-
-https://user-images.githubusercontent.com/36227279/206781885-6b7c73d3-f2b4-4b0b-a3d0-d1cd3f47f232.mp4
-
+![hydro](https://user-images.githubusercontent.com/36227279/206782074-b3ddd30b-e565-4d09-bc82-fa18f6e150d8.gif)
